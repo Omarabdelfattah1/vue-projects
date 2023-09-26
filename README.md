@@ -1,4 +1,5 @@
-# vue
+# Vue project that includes:
+- Calender - Fully made using javascript and vue
 
 ## Project setup
 ```
